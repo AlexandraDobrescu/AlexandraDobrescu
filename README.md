@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandraDobrescu
-- 👀 I’m interested in Science.
-- 🌱 I’m currently learning AI techniques during my master's degree @ UPB.
+- 👀 I’m interested in Science, Technology, Climate Change and the Quantum World.
+- 🌱 I've finished my MSc in AI studies @UPB and I will continue to learn and share my knowledge every day.
 - 💞️ I’m looking to collaborate on Technology and Creativity!
 - 📫 Reach me by mail: marialexandra.dobrescu@gmail.com
 
